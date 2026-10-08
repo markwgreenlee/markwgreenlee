@@ -1,28 +1,3 @@
-How to publish this
-
-GitHub renders README.md from a repo named exactly markwgreenlee (same as your username) on your profile page.
-
-
-
-
-
-Create the repo: github.com/new → Repository name: markwgreenlee → Public → check "Add a README file" → Create.
-
-
-
-Open the new repo, click the ✏️ pencil on README.md, delete everything, and paste the content below.
-
-
-
-Commit. It appears on github.com/markwgreenlee immediately.
-
-
-
-Optional: on your profile, click Customize your pins and pin your favorite repos.
-
-
-
-README.md content (copy from here)
 
 ### Hi there 👋
 
